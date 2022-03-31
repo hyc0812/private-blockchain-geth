@@ -1,4 +1,4 @@
-# private-blockchain-geth
+# Tutorial: Play with Geth (MacOS)
 
 ## Interact with a command-line tool for running a private Ethereum blockchain network
 
